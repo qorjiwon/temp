@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+}
+body{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.navbar{
+    margin:0;
+    padding:0;
+    width:100vw;
+    height: 55px;
+    background-color:#2962ff;
+}
+.navbar .container{
+    width: 100%;
+    max-width:100%;
+    margin: 0;
+    padding: 12px 10px;
+}
+.navbar-brand{
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+}
+.container fieldset{
+    display: inline-block;
+    border: 1px solid #ced4da;
+    margin: 10px 15px;
+    width: 1150px;
+    height: 130px;
+    padding: 20px;
+
+}
+.fieldset h2{
+    font-size: 35px;
+    font-style:bold;
+    margin:3px;
+}
+.fieldset input{
+    width:700px;
+    height:20px;
+    padding:5px;
+    margin-top: 5px;
+}
+.lead{
+    color: #adb5bd;
+}
