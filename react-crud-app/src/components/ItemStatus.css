@@ -1,0 +1,20 @@
+.item-status-container {
+    color: white;
+    text-align: center;
+    margin: 10px 15px;
+}
+
+.item-status-container--create {
+    padding: 10px 0px;
+    background-color: #339d25;
+}
+
+.item-status-container--edit {
+    padding: 10px 0px;
+    background-color: #339d25;
+}
+
+.item-status-container--delete {
+    padding: 10px 0px;
+    background-color: #c7403b;
+}

@@ -1,0 +1,38 @@
+.content-container--input {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
+.content-container--input h5 {
+    color: #e1ba7c;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.content-container--input input{
+    padding: 10px 0px;
+    margin-bottom: 15px;
+    border-width: 0 0 1px;
+    border-color: #93a863;
+    width: 100%;
+}
+
+.content-container--input--expense-item {
+    width: 100%;
+}
+
+.content-container--input--cost {
+    width: 100%;
+}
+
+.input-submit {
+    border: 0;
+    color: white;
+    background-color: #93a863;
+    font-size: 1rem;
+    padding: 8px 20px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    text-align: center;
+}

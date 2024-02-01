@@ -1,0 +1,36 @@
+.content-container--output--list {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid thistle;
+    padding: 10px 15px;
+    margin: 10px 0px;
+    width: 100%;
+}
+
+.content-container--output--list--button {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.edit-button {
+    border: 0;
+    color: white;
+    background-color: rgb(128, 195, 28);
+    border-radius: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+.remove-button {
+    border: 0;
+    color: white;
+    background-color: rgb(162, 17, 17);
+    border-radius: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 5px;
+}

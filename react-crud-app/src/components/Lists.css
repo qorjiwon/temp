@@ -1,0 +1,15 @@
+.content-container--output {
+    display: flex;
+    flex-direction: column;
+}
+
+.remove-all-button {
+    border: 0;
+    color: white;
+    background-color: #93a863;
+    font-size: 1rem;
+    padding: 8px 20px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    text-align: center;
+}
